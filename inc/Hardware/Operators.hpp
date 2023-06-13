@@ -4,7 +4,6 @@
 
 #include "boost/random.hpp"
 #include "boost/generator_iterator.hpp"
-
 #include "Hardware/Definitions.hpp"
 
 bool operator==(const Hardware::ProbePositionStruct&, const Hardware::ProbePositionStruct&);
